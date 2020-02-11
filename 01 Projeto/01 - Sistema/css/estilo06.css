@@ -1,0 +1,52 @@
+#agendar-ocupado{
+	float:left;
+	background-color:#CC0000;
+	width:120px;
+	background-position: center;
+	border-radius: 8px;
+	margin-left:140px;
+	margin-top:10px;
+	padding:10px;
+	line-height:20px;
+	color:white;
+}
+#agendar-livre{
+	float:left;
+	background-color:#04B404;
+	width:120px;
+	background-position: center;
+	border-radius: 8px;
+	margin-left:140px;
+	margin-top:10px;
+	padding:10px;
+	line-height:20px;
+}
+#agendar-invalido{
+	float:left;
+	background-color:#848484;
+	width:120px;
+	background-position: center;
+	border-radius: 8px;
+	margin-left:140px;
+	margin-top:10px;
+	padding:10px;
+	line-height:20px;
+	cursor:not-allowed;
+}
+ select {
+        height:30px;
+		width:240px;
+        line-height:30px;
+		text-align: center;
+		text-align-last: center;
+    } 
+#editar-videos{
+    display: none;
+}
+#excluir-videos{
+    display: none;
+}
+td {
+    border: 0;
+
+}?

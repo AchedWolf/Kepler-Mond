@@ -1,0 +1,33 @@
+#agendar-ocupado{
+	float:left;
+	background-color:red;
+	height:60px;
+	width:110px;
+	background-position: center;
+	border:solid;
+	border-radius: 10px;
+	margin-left:140px;
+	margin-top:10px;	
+	text-align:left;
+	
+}
+#agendar-livre{
+	float:left;
+	background-color:#00FF00;
+	height:60px;
+	width:110px;
+	background-position: center;
+	border:solid;
+	border-radius: 10px;
+	margin-left:140px;
+	margin-top:10px;	
+	text-align:left;
+	
+}
+ select {
+        height:30px;
+		width:240px;
+        line-height:30px;
+		text-align: center;
+		text-align-last: center;
+    } 
